@@ -1,5 +1,4 @@
 Visualization in HCI Homework 2
-*Due: Wednesday, February 8, 12:00pm (noon).*
 
 In this assignment you will create an interactive bar chart that display statistics from Fifa World Cup Games dating back to 1930. We've retrieved the data from [FIFA's website](http://www.fifa.com/fifa-tournaments/statistics-and-records/worldcup/).
 
