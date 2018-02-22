@@ -3,4 +3,38 @@
  * 
  * Use of stylesheet is Optional.
  */
+.barChart{
+	fill:#00BCD4;
+	stroke-width:2;
+	stroke:#80DEEA;
+}
 
+.pathChart{
+	fill:none;
+	stroke-width:2;
+	stroke:#000;
+}
+
+.lineChart{
+	fill:none;
+	stroke-width:2;
+	stroke:#000;
+}
+
+.pathFilledChart{
+	fill:black;
+	stroke-width:2;
+	stroke:#000;
+}
+
+.lineFilledChart{
+	fill:black;
+	stroke-width:2;
+	stroke:#000;
+}
+
+.scatterplotBorder{
+	fill:none;
+	stroke: black;
+	stroke-width:2;
+}
